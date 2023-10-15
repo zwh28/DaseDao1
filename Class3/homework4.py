@@ -86,5 +86,6 @@ li.tarvel()
 li.remove(5)
 li.select(6)
 li.insert(19,5)
+li.update(100,1)
 li.tarvel()
 
